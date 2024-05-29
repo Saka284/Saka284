@@ -2,7 +2,7 @@
 
 ## Profile
 
-Hello! I am Saka Wijaya, a 5th-semester student majoring in Computer Engineering Technology at Politeknik Negeri Semarang. I have a strong interest in the field of Data Science and am always eager to learn and develop my skills in this area.
+Hello! I am Saka Wijaya, a student majoring in Computer Engineering Technology at Politeknik Negeri Semarang. I have a strong interest in the field of Data Science and am always eager to learn and develop my skills in this area.
 
 ## Tools & Languages
 
