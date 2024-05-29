@@ -9,6 +9,7 @@ Hello! I am Saka Wijaya, a student majoring in Computer Engineering Technology a
 - **🔧 Laravel Framework**
 - **📝 VSCode**
 - **📓 Jupyter Notebook**
+- **📊 Google Looker Studio**
 
 ## Contact
 
