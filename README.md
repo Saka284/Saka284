@@ -11,6 +11,7 @@ Hello! I am Saka Wijaya, a student majoring in Computer Engineering Technology a
 - **📝 VSCode**
 - **📓 Jupyter Notebook**
 - **📊 Google Looker Studio**
+- **📜 SQL**
 
 ## Contact
 
