@@ -13,6 +13,9 @@ Hello! I am Saka Wijaya, a student majoring in Computer Engineering Technology a
 - **📊 Google Looker Studio**
 - **📜 SQL**
 
+## Portofolio
+https://saka284.github.io/Portfolio/
+
 ## Contact
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/saka-wijaya-115007148/)
