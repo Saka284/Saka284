@@ -6,7 +6,6 @@ Hello! I am Saka Wijaya, a student majoring in Computer Engineering Technology a
 ## Tools & Languages
 - **🐍 Python**
 - **🐘 PHP**
-- **☕ Java**
 - **🔧 Laravel Framework**
 - **📝 VSCode**
 - **📓 Jupyter Notebook**
