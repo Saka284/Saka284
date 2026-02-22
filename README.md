@@ -59,13 +59,14 @@
 ###
 
 <div align="left">
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="43" height="31" alt="linkedin logo"  />
-  <a href="https://www.instagram.com/sakawijaya284/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="43" height="31" alt="instagram logo"  />
+  <a href="https://www.linkedin.com/in/saka-wijaya-115007148/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="43" height="31" alt="linkedin logo" />
   </a>
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="43" height="31" alt="discord logo"  />
-  <a href="saka31.sw@gmail.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="43" height="31" alt="gmail logo"  />
+  <a href="https://www.instagram.com/sakawijaya284/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="43" height="31" alt="instagram logo" />
+  </a>
+  <a href="mailto:saka31.sw@gmail.com" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="43" height="31" alt="gmail logo" />
   </a>
 </div>
 
