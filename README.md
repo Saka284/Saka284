@@ -1,5 +1,3 @@
-<h1 align="left">Hi, I'm Saka 👋</h1>
-
 ###
 
 <div align="center">
