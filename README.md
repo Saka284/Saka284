@@ -1,5 +1,6 @@
 ###
 
+
 <div align="center">
   <img height="227" src="https://i.pinimg.com/originals/61/71/4f/61714fc4db0374ed61e8fcaedd4bc962.gif"  />
 </div>
@@ -11,7 +12,7 @@
 </div>
 
 ###
-
+<span>I'm Saka<span>
 <p align="left">I am a passionate web developer focused on creating clean, intuitive, and user-friendly digital experiences. I have been actively involved in building various web solutions, from academic admission platforms to public data dashboards, and I am always looking for opportunities to gain more practical experience. I am driven by a strong commitment to continuous learning and growth. Whether it is refining UI/UX principles, planning system architectures, or finding new ways to present complex data effectively, I am always eager to take on new challenges and expand my skills in web development.</p>
 
 ###
