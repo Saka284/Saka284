@@ -25,68 +25,21 @@
     "Academic admission platforms",
     "Public data dashboards"
   ],
+  "techStack": {
+    "languages": ["JavaScript", "PHP", "HTML5", "CSS3"],
+    "frameworks": ["Laravel", "Bootstrap", "Tailwind CSS"],
+    "database": ["MySQL"],
+    "tools": ["Docker", "Arduino", "Anaconda", "VS Code"],
+    "os": ["Linux", "Fedora"]
+  },
   "mindset": "Continuous learning & growth",
   "status": "Open to new challenges",
-  "motto": "Always eager to build, break, and rebuild better."
+  "contact": {
+    "linkedin": "https://www.linkedin.com/in/saka-wijaya-115007148/",
+    "instagram": "https://www.instagram.com/sakawijaya284/",
+    "email": "saka31.sw@gmail.com"
+  }
 }
 ```
-
-###
-
-<h4 align="left">"techStack": [</h4>
-
-###
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="31" alt="javascript logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg" height="31" alt="anaconda logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" height="31" alt="arduino logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="31" alt="bootstrap logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="31" alt="css logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="31" alt="docker logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fedora/fedora-original.svg" height="31" alt="fedora logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="31" alt="html5 logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" height="31" alt="laravel logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="31" alt="linux logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="31" alt="mysql logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="31" alt="php logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="31" alt="tailwindcss logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="31" alt="vscode logo" />
-</div>
-
-<h4 align="left">]</h4>
-
-###
-
-<h4 align="left">"contact": {</h4>
-
-###
-
-<div align="left">
-  <a href="https://www.linkedin.com/in/saka-wijaya-115007148/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="43" height="31" alt="linkedin logo" />
-  </a>
-  <a href="https://www.instagram.com/sakawijaya284/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="43" height="31" alt="instagram logo" />
-  </a>
-  <a href="mailto:saka31.sw@gmail.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="43" height="31" alt="gmail logo" />
-  </a>
-</div>
-
-<h4 align="left">}</h4>
 
 ###
