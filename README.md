@@ -33,13 +33,18 @@
     "os": ["Linux", "Fedora"]
   },
   "mindset": "Continuous learning & growth",
-  "status": "Open to new challenges",
-  "contact": {
-    "linkedin": "https://www.linkedin.com/in/saka-wijaya-115007148/",
-    "instagram": "https://www.instagram.com/sakawijaya284/",
-    "email": "saka31.sw@gmail.com"
-  }
+  "status": "Open to new challenges"
 }
 ```
+
+###
+
+<pre>
+"contact": {
+  "linkedin":  <a href="https://www.linkedin.com/in/saka-wijaya-115007148/">saka-wijaya</a>,
+  "instagram": <a href="https://www.instagram.com/sakawijaya284/">@sakawijaya284</a>,
+  "email":     <a href="mailto:saka31.sw@gmail.com">saka31.sw@gmail.com</a>
+}
+</pre>
 
 ###
