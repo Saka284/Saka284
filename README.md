@@ -60,8 +60,8 @@ saka284@github:~$ git log --stat --author="Saka"
 ```
 
 <div align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=Saka284&show_icons=true&hide_border=true&theme=dark&hide_title=true&card_width=430" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Saka284&layout=compact&hide_border=true&theme=dark&card_width=330" />
+  <img height="160" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Saka284&show_icons=true&hide_border=true&theme=dark&hide_title=true&card_width=430" />
+  <img height="160" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Saka284&layout=compact&hide_border=true&theme=dark&card_width=330" />
 </div>
 
 <div align="center">
