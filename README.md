@@ -84,14 +84,3 @@ saka284@github:~$ cat contact.json
   "email":     "saka31.sw@gmail.com"
 }
 ```
-
-<div align="center">
-  <a href="https://sakawijaya.vercel.app">Portfolio</a> ·
-  <a href="https://www.linkedin.com/in/saka-wijaya-115007148/">LinkedIn</a> ·
-  <a href="https://www.instagram.com/sakawijaya284/">Instagram</a> ·
-  <a href="mailto:saka31.sw@gmail.com">Email</a>
-</div>
-
-```console
-saka284@github:~$ █
-```
