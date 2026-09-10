@@ -76,14 +76,21 @@ saka284@github:~$ git log --stat --author="Saka"
 saka284@github:~$ cat contact.json
 ```
 
-<pre>
-"contact": {
-  "portfolio": <a href="https://sakawijaya.vercel.app">sakawijaya.vercel.app</a>,
-  "linkedin":  <a href="https://www.linkedin.com/in/saka-wijaya-115007148/">saka-wijaya</a>,
-  "instagram": <a href="https://www.instagram.com/sakawijaya284/">@sakawijaya284</a>,
-  "email":     <a href="mailto:saka31.sw@gmail.com">saka31.sw@gmail.com</a>
+```json
+{
+  "portfolio": "sakawijaya.vercel.app",
+  "linkedin":  "saka-wijaya",
+  "instagram": "@sakawijaya284",
+  "email":     "saka31.sw@gmail.com"
 }
-</pre>
+```
+
+<div align="center">
+  <a href="https://sakawijaya.vercel.app">Portfolio</a> ·
+  <a href="https://www.linkedin.com/in/saka-wijaya-115007148/">LinkedIn</a> ·
+  <a href="https://www.instagram.com/sakawijaya284/">Instagram</a> ·
+  <a href="mailto:saka31.sw@gmail.com">Email</a>
+</div>
 
 ```console
 saka284@github:~$ █
