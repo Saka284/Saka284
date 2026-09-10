@@ -1,5 +1,3 @@
-###
-
 <div align="center">
   <img height="227" src="https://i.pinimg.com/originals/61/71/4f/61714fc4db0374ed61e8fcaedd4bc962.gif" />
 </div>
@@ -12,13 +10,30 @@
 
 ###
 
-<h3 align="left">I'm Saka</h3>
-
-<p align="left">I am a passionate web developer focused on creating clean, intuitive, and user-friendly digital experiences. I have been actively involved in building various web solutions, from academic admission platforms to public data dashboards, and I am always looking for opportunities to gain more practical experience. I am driven by a strong commitment to continuous learning and growth. Whether it is refining UI/UX principles, planning system architectures, or finding new ways to present complex data effectively, I am always eager to take on new challenges and expand my skills in web development.</p>
+```json
+{
+  "name": "Saka",
+  "username": "Saka284",
+  "role": "Web Developer",
+  "bio": "Passionate about crafting clean, intuitive, and user-friendly digital experiences.",
+  "focus": [
+    "UI/UX refinement",
+    "System architecture",
+    "Turning complex data into clear visuals"
+  ],
+  "experience": [
+    "Academic admission platforms",
+    "Public data dashboards"
+  ],
+  "mindset": "Continuous learning & growth",
+  "status": "Open to new challenges",
+  "motto": "Always eager to build, break, and rebuild better."
+}
+```
 
 ###
 
-<h4 align="left">Tech Stack</h4>
+<h4 align="left">"techStack": [</h4>
 
 ###
 
@@ -52,9 +67,11 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="31" alt="vscode logo" />
 </div>
 
+<h4 align="left">]</h4>
+
 ###
 
-<h4 align="left">Socials</h4>
+<h4 align="left">"contact": {</h4>
 
 ###
 
@@ -69,5 +86,7 @@
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="43" height="31" alt="gmail logo" />
   </a>
 </div>
+
+<h4 align="left">}</h4>
 
 ###
