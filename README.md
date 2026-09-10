@@ -3,6 +3,7 @@
 </div>
 
 <div align="center">
+  <a href="https://sakawijaya.vercel.app"><img src="https://img.shields.io/badge/Portfolio-sakawijaya.vercel.app-000000?style=flat-square&logo=vercel&logoColor=white" /></a>
   <a href="https://www.linkedin.com/in/saka-wijaya-115007148/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" /></a>
   <a href="https://www.instagram.com/sakawijaya284/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white" /></a>
   <a href="mailto:saka31.sw@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white" /></a>
@@ -77,6 +78,7 @@ saka284@github:~$ cat contact.json
 
 <pre>
 "contact": {
+  "portfolio": <a href="https://sakawijaya.vercel.app">sakawijaya.vercel.app</a>,
   "linkedin":  <a href="https://www.linkedin.com/in/saka-wijaya-115007148/">saka-wijaya</a>,
   "instagram": <a href="https://www.instagram.com/sakawijaya284/">@sakawijaya284</a>,
   "email":     <a href="mailto:saka31.sw@gmail.com">saka31.sw@gmail.com</a>
